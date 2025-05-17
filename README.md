@@ -25,3 +25,9 @@ Install my-project with php
 ```bash
     ./vendor/bin/phpunit
 ```
+
+### Default Admin User
+```bash
+    username - admin@admin.com
+    password - admin123
+```
