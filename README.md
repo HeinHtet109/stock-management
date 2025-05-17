@@ -19,3 +19,9 @@ Install my-project with php
 ```bash
     project_root/public/
 ```
+
+## PHP Unit Test
+
+```bash
+    ./vendor/bin/phpunit
+```
